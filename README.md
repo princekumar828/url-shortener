@@ -64,7 +64,3 @@ A modern URL shortening service built with the MERN stack (MongoDB, Express.js, 
 - GET /api/url/:shortCode - Redirect to original URL
 - GET /api/url/stats/:shortCode - Get URL statistics
 - GET /api/urls - Get all URLs (with pagination)
-
-## License
-
-MIT 
